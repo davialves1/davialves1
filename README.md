@@ -1,4 +1,4 @@
-👋 Hi, I’m @davialves1 🇧🇷. I'm a senior software engineer working at Volkswagen AG in Wolfsburg/Braunschweig.
+Hi, I’m Davi Alves. I'm a senior software engineer working at Volkswagen AG in Wolfsburg/Braunschweig.
 You can find more about me on [davi-alves.com](https://davi-alves.com)
 
 <!---
