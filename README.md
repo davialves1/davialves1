@@ -1,4 +1,4 @@
-Hi, I’m Davi Alves. I'm a senior software engineer working at Volkswagen AG in Germany.
+Hi, I’m Davi Alves. I'm a software engineer working at Volkswagen AG in Germany.
 You can find more about me on [davi-alves.com](https://davi-alves.com)
 
 <!---
